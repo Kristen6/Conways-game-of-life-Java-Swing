@@ -1,1 +1,1 @@
-# Conways-game-of-life-Java-Swing
+# Conway's Game of Life
