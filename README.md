@@ -4,7 +4,7 @@ Conway's Game of Life is a cellular automaton simulation where cells on a grid e
 
 ## Demo Video
 
-[Click here to watch the demo video](video_IntroductionOfTheGame/project_Presentation - Compressed with FlexClip.mp4)
+[Click here to watch the demo video](video_IntroductionOfTheGame/project_Presentation.mp4)
 
 ## Before Playing the Game:
 
