@@ -4,7 +4,17 @@ Conway's Game of Life is a cellular automaton simulation where cells on a grid e
 
 ## Demo Video
 
-[Click here to watch the demo video](video_IntroductionOfTheGame/project_Presentation.mp4)
+[Click here to watch the demo video](video_IntroductionOfTheGame/project_Presentation - Compressed with FlexClip.mp4)
+
+## Before Playing the Game:
+
+You must have Java installed on your computer:
+
+**Option 1**:  
+Download the **"Conway's_Game_of_Life_Project.jar"** and double-click to play the game.
+
+**Option 2**:  
+Download the `src` folder containing all the classes, then compile and run the `Main` class to start the game.
 
 ## How to Play
 
