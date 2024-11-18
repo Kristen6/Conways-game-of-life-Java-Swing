@@ -2,11 +2,11 @@
 
 Conway's Game of Life is a cellular automaton simulation where cells on a grid evolve based on a set of simple rules. This interactive version allows you to set up the board, start the simulation, and watch the patterns emerge.
 
-## How to Play
 ## Demo Video
 
 [Click here to watch the demo video](video_IntroductionOfTheGame/project_Presentation.mp4)
 
+## How to Play
 
 1. **Set the Board Size**
     - Input a number to define the board size (e.g., `10` for a 10x10 grid).
