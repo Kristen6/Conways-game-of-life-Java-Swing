@@ -11,7 +11,7 @@ Conway's Game of Life is a cellular automaton simulation where cells on a grid e
 You must have Java installed on your computer:
 
 **Option 1**:  
-Download the **"Conway's_Game_of_Life_Project.jar"** and double-click to play the game. 
+Download the **"Conway's_Game_of_Life_Project.jar"** and double-click to play the game.  
 (if you use macOS, it may show "macOS cannot verify that this app is free from malware."
 Method: Manually Allow the JAR File
 1. Try running the JAR file, and macOS will show a warning.
